@@ -36,7 +36,3 @@ You can access the datasets at the following link:
 - Gradio
 - TensorFlow/PyTorch
 
-## Usage:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/legal-document-summarization.git
